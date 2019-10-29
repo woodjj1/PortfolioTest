@@ -1,0 +1,21 @@
+Logout user code:
+
+<a href="{{ url('/logout') }}">Logout ({{Auth::user()->name}})</a> |
+
+
+deleting confirmation 
+
+https://medium.com/@vineeth030/laravel-confirm-dialog-for-delete-button-5976554d839
+https://www.itsolutionstuff.com/post/laravel-5-confirmation-before-delete-record-from-database-exampleexample.html   good
+
+
+Story
+Introduction
+Team storming and norming
+Git
+Team-WORK
+Management
+Communication
+Development
+Testing
+Testing
